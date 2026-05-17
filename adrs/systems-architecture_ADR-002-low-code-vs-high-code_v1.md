@@ -1,7 +1,7 @@
 # ADR-002: Low-code vs. high-code integration tooling
 
 **Status:** Accepted  
-**Date:** 2025-Q1  
+**Date:** 2026-Q2 
 **Author:** Christina Lanham
 
 ---
